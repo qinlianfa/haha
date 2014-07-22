@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.jboss.ide.eclipse.as.core.server.runtime.runtimeTarget/JBoss EAP 6.1+ Runtime">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.7.0_25">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/资料/无线慧/Wuxianhui/Wuxianhui/WebContent/WEB-INF/lib/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="E:/资料/无线慧/Wuxianhui/Wuxianhui/WebContent/WEB-INF/lib/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="E:/资料/无线慧/Wuxianhui/Wuxianhui/WebContent/WEB-INF/lib/commons-fileupload-1.2.2.jar"/>
+	<classpathentry kind="lib" path="E:/资料/无线慧/Wuxianhui/Wuxianhui/WebContent/WEB-INF/lib/commons-io-2.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/资料/无线慧/Wuxianhui/Wuxianhui/WebContent/WEB-INF/lib/commons-lang3-3.1.jar"/>
+	<classpathentry kind="lib" path="E:/资料/无线慧/Wuxianhui/Wuxianhui/WebContent/WEB-INF/lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="E:/资料/无线慧/Wuxianhui/Wuxianhui/WebContent/WEB-INF/lib/freemarker-2.3.19.jar"/>
+	<classpathentry kind="lib" path="E:/资料/无线慧/Wuxianhui/Wuxianhui/WebContent/WEB-INF/lib/hibernate3.jar"/>
+	<classpathentry kind="lib" path="E:/资料/无线慧/Wuxianhui/Wuxianhui/WebContent/WEB-INF/lib/hibernate-cglib-repack-2.1_3.jar"/>
+	<classpathentry kind="lib" path="E:/资料/无线慧/Wuxianhui/Wuxianhui/WebContent/WEB-INF/lib/javassist-3.11.0.GA.jar"/>
+	<classpathentry kind="lib" path="E:/资料/无线慧/Wuxianhui/Wuxianhui/WebContent/WEB-INF/lib/json.jar"/>
+	<classpathentry kind="lib" path="E:/资料/无线慧/Wuxianhui/Wuxianhui/WebContent/WEB-INF/lib/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="E:/资料/无线慧/Wuxianhui/Wuxianhui/WebContent/WEB-INF/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="E:/资料/无线慧/Wuxianhui/Wuxianhui/WebContent/WEB-INF/lib/mysql-connector-java-5.1.20-bin.jar"/>
+	<classpathentry kind="lib" path="E:/资料/无线慧/Wuxianhui/Wuxianhui/WebContent/WEB-INF/lib/ognl-3.0.5.jar"/>
+	<classpathentry kind="lib" path="E:/资料/无线慧/Wuxianhui/Wuxianhui/WebContent/WEB-INF/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="E:/资料/无线慧/Wuxianhui/Wuxianhui/WebContent/WEB-INF/lib/slf4j-api-1.5.6.jar"/>
+	<classpathentry kind="lib" path="E:/资料/无线慧/Wuxianhui/Wuxianhui/WebContent/WEB-INF/lib/slf4j-log4j12-1.5.6.jar"/>
+	<classpathentry kind="lib" path="E:/资料/无线慧/Wuxianhui/Wuxianhui/WebContent/WEB-INF/lib/struts2-core-2.3.4.jar"/>
+	<classpathentry kind="lib" path="E:/资料/无线慧/Wuxianhui/Wuxianhui/WebContent/WEB-INF/lib/struts2-json-plugin-2.3.4.jar"/>
+	<classpathentry kind="lib" path="E:/资料/无线慧/Wuxianhui/Wuxianhui/WebContent/WEB-INF/lib/xwork-core-2.3.4.jar"/>
+	<classpathentry kind="lib" path="E:/资料/Java/api/SSH/struts-2.3.15.1-all/struts-2.3.15.1/lib/commons-logging-api-1.1.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
